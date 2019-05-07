@@ -2,3 +2,4 @@ Gitはじめてのファイルだよ
 基本的なワークフローについて学びます。
 .git add
 .git commit
+.git rm
